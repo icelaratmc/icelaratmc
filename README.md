@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @icelaratmc
+- 🌱 I’m currently learning python, c++ and spring-boot
+- 📫 How to reach me ivan.celar@fer.hr, icelar@atmc.ai, +385976029106
